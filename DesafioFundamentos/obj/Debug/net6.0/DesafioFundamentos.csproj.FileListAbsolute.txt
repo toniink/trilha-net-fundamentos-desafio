@@ -1,0 +1,15 @@
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.deps.json
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.runtimeconfig.json
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.dll
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.pdb
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfo.cs
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.sourcelink.json
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.dll
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/refint/DesafioFundamentos.dll
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.pdb
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.genruntimeconfig.cache
+/home/tonii/Documentos/programacao/dio/fullstack/desafioDeProjeto/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/ref/DesafioFundamentos.dll
